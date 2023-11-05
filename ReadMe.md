@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [CODEx Club Website](https://github.com/ShivamKr7250/CODEx-MVC)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **Spring Boot, Java**
+- 💬 Ask me about **ASP.NET Core, C#**
 
-- 📫 How to reach me **ashishkr710@gmail.com**
+- 📫 How to reach me **supshiv7250@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
