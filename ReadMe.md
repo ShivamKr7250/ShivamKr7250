@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supshiv7250@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
