@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamKr7250&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamKr7250" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250" alt="ShivamKr7250" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250&theme=onedark" alt="ShivamKr7250" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
