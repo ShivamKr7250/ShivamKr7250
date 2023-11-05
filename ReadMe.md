@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr710&" alt="ashishkr710" /></p>
 
 
-[![@ashishkr710's Holopin board](https://holopin.me/@shivamkr9304)](https://holopin.io/@shivamkr9304)
+[![@ashishkr710's Holopin board](https://www.holopin.io/@shivamkr9304#badges)](https://www.holopin.io/@shivamkr9304#badges)
