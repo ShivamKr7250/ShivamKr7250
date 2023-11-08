@@ -18,8 +18,8 @@
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/@ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ashishkr710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-1b5549235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-1b5549235/" height="30" width="40" /></a>
 <a href="https://instagram.com/realshivu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realshivu_" height="30" width="40" /></a>
@@ -59,7 +59,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamKr7250&show_icons=true&locale=en" alt="ShivamKr7250" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKr7250&" alt="ShivamKr7250" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKr7250&" alt="ShivamKr7250" /></p>
 
 [![@shivamkr7250's Holopin board](https://holopin.me/@shivamkr7250)](https://holopin.io/@shivamkr7250)
 
