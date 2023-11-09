@@ -68,7 +68,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="vim" width="60" height="60" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="60" height="60" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="juptier" width="60" height="60" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="tailwindcss" width="60" height="60" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindcss" width="60" height="60" /></a>
   
 </p>
 <h3>Cloud Technology</h3>
