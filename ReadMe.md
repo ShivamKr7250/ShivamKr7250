@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShivamKr7250&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamKr7250" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250&theme=onedark" alt="ShivamKr7250" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [CODEx Club Website](https://github.com/ShivamKr7250/CODEx-MVC)
+
+- 🌱 I’m currently learning **ASP.NET Core**
+
+- 💬 Ask me about **ASP.NET Core, C#**
+
+- 📫 How to reach me **supshiv7250@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
 
 <div align="center">
   
@@ -26,22 +38,6 @@
 ```
   
 </div>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250&theme=onedark" alt="ShivamKr7250" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [CODEx Club Website](https://github.com/ShivamKr7250/CODEx-MVC)
-
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 💬 Ask me about **ASP.NET Core, C#**
-
-- 📫 How to reach me **supshiv7250@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1dNVQY0Bt5javLs9D5N7RlvqFxWmH86UrIzsIoEZB5Hc/edit?usp=sharing)
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
