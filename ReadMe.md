@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<p>I am a B.Tech CSE Student</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShivamKr7250&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamKr7250" /> </p>
