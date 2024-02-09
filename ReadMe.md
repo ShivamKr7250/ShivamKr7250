@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250&theme=onedark" alt="ShivamKr7250" /></a> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [CODEx Club Website](https://github.com/ShivamKr7250/CODEx-MVC)
+- 🔭 I’m currently President of [CODEx Club](https://github.com/ShivamKr7250/CODEx-MVC)
 
 
 
