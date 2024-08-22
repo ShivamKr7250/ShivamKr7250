@@ -88,7 +88,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="css3" width="60" height="60"/> </a> 
 </p>
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShivamKr7250&theme=dark&hide_border=true)](https://git.io/streak-stats)</p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShivamKr7250&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ShivamKr7250&show_icons=true&locale=en" alt="ShivamKr7250" /></p>
 
