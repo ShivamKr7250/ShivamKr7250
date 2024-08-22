@@ -92,7 +92,9 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ShivamKr7250&show_icons=true&theme=radical" alt="ShivamKr7250" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamKr7250&show_icons=true&locale=en&layout=radical" alt="ShivamKr7250" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamKr7250&show_icons=true&locale=en&layout=compact" alt="ShivamKr7250" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![@shivamkr7250's Holopin board](https://holopin.me/@shivamkr7250)](https://holopin.io/@shivamkr7250)
