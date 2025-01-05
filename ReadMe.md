@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<p>I am a B.Tech CSE Student</p>
+<p>I'm .NET Developer</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShivamKr7250&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamKr7250" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShivamKr7250&theme=onedark" alt="ShivamKr7250" /></a> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently President of [CODEx Club](https://github.com/ShivamKr7250/CODEx-MVC)
 
+- 🌱 I’m currently learning **.NET Core** Tech Stack
 
-
-- 🌱 I’m currently learning **ASP.NET Core**
-
-- 💬 Ask me about **ASP.NET Core, C#**
+- 💬 Ask me about **.NET Core, C#, Azure Cloud, SQL**
 
 - 📫 How to reach me **supshiv7250@gmail.com**
 
@@ -46,13 +43,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ashishkr710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-1b5549235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-1b5549235/" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realshivu_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/supshiv7250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/supshiv7250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
